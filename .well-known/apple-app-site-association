@@ -1,11 +1,12 @@
 {
   "applinks": {
-    "apps": [],
     "details": [
       {
-        "appID": "83YLLZMM75.com.turkihasanin.Agenda",
-        "paths": [
-          "/share/*"
+        "appIDs": ["83YLLZMM75.com.turkihasanin.Agenda"],
+        "components": [
+          {
+            "/": "/share*"
+          }
         ]
       }
     ]
